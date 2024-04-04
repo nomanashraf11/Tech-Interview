@@ -4,7 +4,7 @@
 
 ### 🖥️ Frontend
 
-You are provided with the following ready to use project. You just need to clone it and start hacking.
+You are provided with the following react app. Clone / Fork it and start hacking.
 
 Your task is to build a responsive and user friendly homepage following the following [figma design](https://www.figma.com/file/DmwR0khfS1RYV8KMQ7uiEq/Page?type=design&node-id=0%3A1&mode=design&t=o8Tnul9VKEwdvXzS-1).
 
@@ -33,6 +33,10 @@ Your submission of the challenge will be judged, among other things, by the foll
 ## ✨ Bonus points
 
 - Deploy the application
+
+## 🚀 How to submit your work
+
+- Send us a link to your repository **pmoens@tipaw.com**
 
 ## 📝 Final note
 
