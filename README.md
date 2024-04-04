@@ -43,4 +43,4 @@ Your submission of the challenge will be judged, among other things, by the foll
 We recommend that you spend a **maximum of 4 hours** on this challenge. Your goal should not be to deliver a final product, but more for us to have enough to test your knowledge and understanding of the technologies.
 
 We hope you will enjoy working on this challenge, and if you have any questions
-please do not hesitate to react out to **pmoens@tipaw.com**
+please do not hesitate to reach out to **pmoens@tipaw.com**
