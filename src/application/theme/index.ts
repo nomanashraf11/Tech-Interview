@@ -1,6 +1,6 @@
 export const theme = {
   font: {
-    default: "'Open Sans', 'Helvetica', sans-serif",
+    default: "Open Sans",
     alternate: "'Source Serif 4', serif",
   },
   color: {
@@ -11,6 +11,7 @@ export const theme = {
       tintDarker: "#f2f5f7",
       shadeLighter: "#f0f0f0",
       shade: "#d7dae0",
+      background: "#F8F9F9",
     },
     medium: {
       default: "#8c96a3",
